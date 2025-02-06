@@ -15,7 +15,7 @@
 ### **Cómo Usar:**
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/NetScannerPro.git
+   git clone https://github.com/SisaRoot/NetScannerPro.git
    ```
 2. Instala las dependencias necesarias:
    ```bash
