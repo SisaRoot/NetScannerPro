@@ -19,7 +19,7 @@
    ```
 2. Instala las dependencias necesarias:
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 3. Ejecuta el script principal:
    ```bash
