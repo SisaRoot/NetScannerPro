@@ -23,7 +23,7 @@
    ```
 3. Ejecuta el script principal:
    ```bash
-   python src/main.py
+   sudo python3 main.py
    ```
 4. Ingresa el rango de red objetivo cuando se te solicite (por ejemplo, `192.168.1.0/24`).
 
